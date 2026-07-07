@@ -1,4 +1,4 @@
-@ETicaretApı.API_HostAddress = http://localhost:5035
+@ETicaretApı.API_HostAddress = http://localhost:5069
 
 GET {{ETicaretApı.API_HostAddress}}/weatherforecast/
 Accept: application/json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ETicaret.Apı.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37f6a050c37bde47fd960de2379ab02b452ca48b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ETicaret.Apı.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ETicaret.Apı.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

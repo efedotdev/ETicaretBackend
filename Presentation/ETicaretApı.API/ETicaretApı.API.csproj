@@ -8,10 +8,17 @@
 
     <ItemGroup>
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.9"/>
+        <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="10.0.2" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="10.2.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Controllers\" />
     </ItemGroup>
 
     <ItemGroup>
       <ProjectReference Include="..\..\Core\ETicaretApı.Application\ETicaretApı.Application.csproj" />
+      <ProjectReference Include="..\..\Infrasturacture\ETicaret.Apı.Persistence\ETicaret.Apı.Persistence.csproj" />
     </ItemGroup>
 
 </Project>
