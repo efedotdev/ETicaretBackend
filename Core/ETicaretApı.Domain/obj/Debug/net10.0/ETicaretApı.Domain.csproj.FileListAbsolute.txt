@@ -1,0 +1,13 @@
+/Users/efe/Desktop/EticaretUygulamasi/ETicaretApı/Core/ETicaretApı.Domain/bin/Debug/net10.0/ETicaretApı.Domain.deps.json
+/Users/efe/Desktop/EticaretUygulamasi/ETicaretApı/Core/ETicaretApı.Domain/bin/Debug/net10.0/ETicaretApı.Domain.dll
+/Users/efe/Desktop/EticaretUygulamasi/ETicaretApı/Core/ETicaretApı.Domain/bin/Debug/net10.0/ETicaretApı.Domain.pdb
+/Users/efe/Desktop/EticaretUygulamasi/ETicaretApı/Core/ETicaretApı.Domain/obj/Debug/net10.0/ETicaretApı.Domain.csproj.AssemblyReference.cache
+/Users/efe/Desktop/EticaretUygulamasi/ETicaretApı/Core/ETicaretApı.Domain/obj/Debug/net10.0/ETicaretApı.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/efe/Desktop/EticaretUygulamasi/ETicaretApı/Core/ETicaretApı.Domain/obj/Debug/net10.0/ETicaretApı.Domain.AssemblyInfoInputs.cache
+/Users/efe/Desktop/EticaretUygulamasi/ETicaretApı/Core/ETicaretApı.Domain/obj/Debug/net10.0/ETicaretApı.Domain.AssemblyInfo.cs
+/Users/efe/Desktop/EticaretUygulamasi/ETicaretApı/Core/ETicaretApı.Domain/obj/Debug/net10.0/ETicaretApı.Domain.csproj.CoreCompileInputs.cache
+/Users/efe/Desktop/EticaretUygulamasi/ETicaretApı/Core/ETicaretApı.Domain/obj/Debug/net10.0/ETicaretApı.Domain.sourcelink.json
+/Users/efe/Desktop/EticaretUygulamasi/ETicaretApı/Core/ETicaretApı.Domain/obj/Debug/net10.0/ETicaretApı.Domain.dll
+/Users/efe/Desktop/EticaretUygulamasi/ETicaretApı/Core/ETicaretApı.Domain/obj/Debug/net10.0/refint/ETicaretApı.Domain.dll
+/Users/efe/Desktop/EticaretUygulamasi/ETicaretApı/Core/ETicaretApı.Domain/obj/Debug/net10.0/ETicaretApı.Domain.pdb
+/Users/efe/Desktop/EticaretUygulamasi/ETicaretApı/Core/ETicaretApı.Domain/obj/Debug/net10.0/ref/ETicaretApı.Domain.dll
