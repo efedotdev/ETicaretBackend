@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ETicaretApı.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37f6a050c37bde47fd960de2379ab02b452ca48b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed8dd8c14634db158986d0766268789d5d5e1f39")]
 [assembly: System.Reflection.AssemblyProductAttribute("ETicaretApı.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ETicaretApı.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

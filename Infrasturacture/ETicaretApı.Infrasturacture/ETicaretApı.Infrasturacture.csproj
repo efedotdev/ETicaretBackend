@@ -8,6 +8,14 @@
 
     <ItemGroup>
       <ProjectReference Include="..\..\Core\ETicaretApı.Application\ETicaretApı.Application.csproj" />
+      <ProjectReference Include="..\ETicaret.Apı.Persistence\ETicaret.Apı.Persistence.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Azure.Storage.Blobs" Version="12.29.1" />
+      <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="10.0.10" />
+      <PackageReference Include="QRCoder" Version="1.8.0" />
+      <PackageReference Include="System.Configuration.ConfigurationManager" Version="10.0.10" />
     </ItemGroup>
 
 </Project>
